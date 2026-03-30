@@ -1,0 +1,14 @@
+export { BasePage } from './basePage';
+export { LoginPage } from './loginPage';
+export { AdminPage } from './adminPage';
+export { PIMPage } from './pimPage';
+export { LeavePage } from './leavePage';
+export { TimePage } from './timePage';
+export { RecruitmentPage } from './recruitmentPage';
+export { MyInfoPage } from './myInfoPage';
+export { PerformancePage } from './performancePage';
+export { DashboardPage } from './dashboardPage';
+export { DirectoryPage } from './directoryPage';
+export { MaintenancePage } from './maintenancePage';
+export { ClaimPage } from './claimPage';
+export { MyActionsPage } from './myActionsPage';
